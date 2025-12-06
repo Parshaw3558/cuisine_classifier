@@ -30,6 +30,8 @@ The model learns cuisine types from:
 
 The Streamlit app allows users to input restaurant details and get an instant cuisine prediction.
 
+http://cuisineclassifier-r5wbfamhgwvdsjaox9jlw8.streamlit.app/
+
 ---
 
 ## 🧠 Model Details
